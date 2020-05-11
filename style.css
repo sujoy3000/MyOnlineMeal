@@ -39,8 +39,8 @@ html{
 }
 
 #logo img{
-    height: 59px;
-    margin: 3px 6px;
+    height: 50px;
+    margin: 10px 10px;
 }
 
 
@@ -219,8 +219,7 @@ footer{
 .btn{
     padding: 6px 20px;
     border: 2px solid white;
-    background-color: brown;
-    color: white;
+    background-color: yellowgreen;
     margin: 100px;
     font-size: 1.5rem;
     border-radius: 10px;
@@ -229,6 +228,10 @@ footer{
 
 .btn a{
     text-decoration: none;
+}
+
+.btn:hover{
+    background-color:orange;
 }
 
 .subBtn{
